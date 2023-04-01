@@ -12,6 +12,23 @@
         "tcp.len": "0.0",
         "tcp.srcport": "56521.0",
         "tcp.dstport": "80.0",
-        "Value": "-99.0"
+        "Value": "-99.0",
+        "Response": "Error: 403 Forbidden"
+    },
+    {
+        "frame.number": "2",
+        "frame.time": "123722736773147",
+        "frame.len": "62",
+        "eth.src": "87971959760497",
+        "eth.dst": "167275820076079",
+        "ip.src": "192168035",
+        "ip.dst": "1921680121",
+        "ip.proto": "6.0",
+        "ip.len": "48.0",
+        "tcp.len": "0.0",
+        "tcp.srcport": "56521.0",
+        "tcp.dstport": "80.0",
+        "Value": "-99.0",
+        "Response": "Success: 200"
     }
 ]
