@@ -8,6 +8,6 @@ To run the code, you will need to have Python 3.8 or up installed. You can downl
 
 Once you have Python installed, you can run the code by running the following command in the terminal:
 ```
-pip install openai tensorflow pandas scikit-learn
+pip install openai python_dotenv
 python gpt.py
 ```
